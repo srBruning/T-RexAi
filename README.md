@@ -1,2 +1,2 @@
 # T-RexAi
-AI jogar o jogo de dinossauro do Google (jogo T-rex) implementado com PyGame
+AI play Google's dinosaur game (T-rex game) implemented with PyGame
